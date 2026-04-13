@@ -1,8 +1,8 @@
 <?php
 // Basic connection settings
 $databaseHost = '0.0.0.0';
-$databaseUsername = 'root';
-$databasePassword = '';
+$databaseUsername = '<username>';
+$databasePassword = '<password>';
 $databaseName = 'demo';
  
 // Connect to database
