@@ -6,5 +6,5 @@ $databasePassword = '<password>';
 $databaseName = 'demo';
  
 // Connect to database
-$mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName);
+$db = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName);
 ?>
